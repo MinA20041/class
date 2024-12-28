@@ -1,0 +1,27 @@
+HW 
+
+
+1-football field:                                                                                     
+         Class: (player)                                                                                 
+Attributes: (name,age,position,stamina)                              
+Methods: (run,shoot)                                                               
+
+Class:(teen)                                                                                             
+    Attributes: (name,age,position,stamina)                              
+Methods: (run,shoot)                                                               
+
+2-Field survey:                                                                                        
+Class:(particpant)                                                                        
+Attributes:(name,age,gender,responses)                                 
+Methods:addresponse question                                                
+    
+Class:(fieldworker)                                                                                 
+Attributes:(name,teamID,participants)                                      
+Methods:(participant)                                                                 
+
+Procedural programming:                                                                    
+Phone purchase programe                                                                 
+1.phone details such as camera type, storage, battery ,and                                    whether the phone is original                                                             
+2.checking if the user has enough budget.                                        
+3.confirming the purchase if the budget is sufficient and       displaying the phone details.                                              
+4.exiting the program if the budget is insufficinent.           
